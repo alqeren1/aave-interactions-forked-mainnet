@@ -1,0 +1,12 @@
+node_modules
+coverage
+coverage.json
+typechain
+typechain-types
+deployments
+yarn-error.log
+gas-report.txt
+# Hardhat files
+cache
+artifacts
+
